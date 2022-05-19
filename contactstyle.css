@@ -33,3 +33,30 @@ nav li a:hover{
     color: #C64322;
     background-color: rgba(252,251,243,00.75em);
 }
+#contact{
+    text-align: center;
+    color: azure;
+    font-size: 30px;
+}
+.container{
+    
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    
+    
+}
+input{
+    margin: 10px;
+    padding-right: 300px;
+    
+
+}
+textarea{
+    margin: 10px 20px 10px;
+    padding-right: 300px;
+    
+}
+
