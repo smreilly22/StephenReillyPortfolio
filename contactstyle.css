@@ -1,0 +1,35 @@
+body
+{
+    background-image: url("Images/StarryBackground.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+nav{
+    color:white;
+    font-size: 1.7em;
+    letter-spacing: 0.04em;
+    padding:1.0em 1.0em 1.0em;
+    margin: 1.0em 0;
+   text-align: center;
+}
+nav ul{
+    margin:0;
+    padding:  0;
+    list-style: none;
+    align-content: center;
+}
+nav li{
+    display: inline-block;
+    margin: 0;
+    align-content: center;
+}
+nav li a, nav li a:visited{
+    text-decoration: none;
+    color: darkkhaki;
+    padding: 0.3em 0.6em;
+}
+nav li a:hover{
+    color: #C64322;
+    background-color: rgba(252,251,243,00.75em);
+}
