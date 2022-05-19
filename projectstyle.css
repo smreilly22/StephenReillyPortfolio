@@ -26,11 +26,11 @@ nav li{
 }
 nav li a, nav li a:visited{
     text-decoration: none;
-    color: darkkhaki;
+    color: blue;
     padding: 0.3em 0.6em;
 }
 nav li a:hover{
-    color: #C64322;
+    color: lightblue;
     background-color: rgba(252,251,243,00.75em);
 }
 h2{
@@ -83,4 +83,7 @@ h2{
     width: 200px;
     height: 200px;
     
+}
+p{
+    font-size: 20px;
 }

@@ -3,6 +3,7 @@ body
     background-image: url("Images/StarryBackground.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
+    font-family:'Times New Roman', Times, serif;
 
 }
 nav{
@@ -26,23 +27,21 @@ nav li{
 }
 nav li a, nav li a:visited{
     text-decoration: none;
-    color: darkkhaki;
+    color: blue;
     padding: 0.3em 0.6em;
 }
 nav li a:hover{
-    color: #C64322;
+    color:lightskyblue;
     background-color: rgba(252,251,243,00.75em);
 }
 h1{
     text-align: center;
     color: white;
-    font-family: Arial, Helvetica, sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 45px ;
 }
 h3{
     text-align: center;
     color: red;
     
-    font-family: Arial, Helvetica, sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size:31px;
 }
